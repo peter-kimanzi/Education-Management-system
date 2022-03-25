@@ -4,6 +4,7 @@ Simple education management system
 ## Technologies used
 
 * HTML CSS
+* PHP
 
 Navigate to local host  phpmyadmin, create database then import project2.sql
 
