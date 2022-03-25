@@ -1,6 +1,7 @@
 # Education-Management-system
 Simple education management system
 
+## Technologies used
 
 Navigate to local host  phpmyadmin, create database then import project2.sql
 
