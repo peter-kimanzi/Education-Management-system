@@ -6,7 +6,7 @@ Simple education management system
 * HTML CSS
 * PHP
 
-All required files are included just clone repo
+All required files are included just clone repo or download zip file
 
 Navigate to local host  phpmyadmin, create database then import project2.sql
 
