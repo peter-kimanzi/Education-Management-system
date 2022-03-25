@@ -2,4 +2,4 @@
 Simple education management system
 
 
-go to local host 
+Navigate to local host  phpmyadmin and import project2.sql
